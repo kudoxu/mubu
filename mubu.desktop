@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Development;
+Comment=mubu
+Comment[zh_CN]=幕布
+Exec="/usr/bin/mubu"
+GenericName=mubu
+GenericName[zh_CN]=幕布
+Icon=mubu
+MimeType=
+Name=幕布
+Name[zh_CN]=幕布
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
